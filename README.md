@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **food delivery website**
+- 🔭 I’m currently working on **Building Project to Enhance my Technical skill**
 
-- 🌱 I’m currently learning **react js , node js**
+- 🌱 I’m currently learning **React js , Node js , Redux , Next js ,Express js**
 
 - 📫 How to reach me **piyushkumarshukla432@gmail.com**
 
