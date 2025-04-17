@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building Project to Enhance my Technical skill**
 
-- 🌱 I’m currently learning **React js , Node js , Redux , Next js ,Express js**
+- 🌱 I’m currently learning **React js , Node js , Redux , Next js ,Express js , Postman , **
 
 - 📫 How to reach me **piyushkumarshukla432@gmail.com**
 
